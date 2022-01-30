@@ -174,38 +174,23 @@ correct()메소드를 통해 MySQL에 존재하는 데이터베이스의 데이�
 
 
 ### ✅ 프로그램 설명 
+![image](https://user-images.githubusercontent.com/86222503/151693179-2fd25585-c888-47ef-afba-8031a72b73f1.png)
+
+![image](https://user-images.githubusercontent.com/86222503/151693183-7a36300b-7e65-4ec2-b737-38bfc37c3e93.png)
+
+![image](https://user-images.githubusercontent.com/86222503/151693185-25e393b1-4b4f-4d4c-831c-93f4b3cdeb58.png)
+
+![image](https://user-images.githubusercontent.com/86222503/151693186-0f201c89-5f61-41ba-ae15-2eb458892286.png)
 
 
-![image](https://user-images.githubusercontent.com/86222503/151693095-09f69f0d-5587-49a3-b981-af1cde49c16d.png)
+![image](https://user-images.githubusercontent.com/86222503/151693190-04346e97-3cc8-484d-aa3b-46cdcf8fad8c.png)
+
+![image](https://user-images.githubusercontent.com/86222503/151693195-99630367-312a-490f-8721-f5ebfd1c88ce.png)
+
+![image](https://user-images.githubusercontent.com/86222503/151693196-f7dcabf7-e204-4936-92d9-5f87b5bdcb49.png)
 
 
-
-
-
-
-
-![image](https://user-images.githubusercontent.com/86222503/151693096-baffb1d2-a02e-4ee1-a7f2-6e4d0ef335fb.png)
-
-
-
-![image](https://user-images.githubusercontent.com/86222503/151693101-797f02b5-0c9e-42ce-8739-9c9b12c36848.png)
-
-
-![image](https://user-images.githubusercontent.com/86222503/151693107-e874186a-7751-43cc-b90c-ac9d1dee4a9a.png)
-
-
-
-
-
-![image](https://user-images.githubusercontent.com/86222503/151693108-bee78952-76a4-4b00-9e60-f7f4ca79565f.png)
-
-
-![image](https://user-images.githubusercontent.com/86222503/151693112-7f040ca7-e9d2-4445-8472-496809f3c8d7.png)
-
-
-
-![image](https://user-images.githubusercontent.com/86222503/151693122-31b0b2bd-3167-4620-8ec1-82e15d483258.png)
-
+![image](https://user-images.githubusercontent.com/86222503/151693199-63b7eccd-ed8c-4ce2-8547-ae37269f4a9f.png)
 
 
 
