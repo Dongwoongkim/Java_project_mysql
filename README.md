@@ -43,8 +43,7 @@
 
 3. GUI구성 코드 (StudentGUI.java) - 하단 기능 버튼 패널 생성
  
-
-
+![image](https://user-images.githubusercontent.com/86222503/151693030-1dbcb929-0cd0-415b-967a-648acca47ace.png)
 
 
 
@@ -56,6 +55,8 @@
 
 
 4. GUI구성 코드 (StudentGUI.java) - 정보출력 패널 생성
+
+![image](https://user-images.githubusercontent.com/86222503/151693044-c8203f23-c3f0-4345-81d2-379b25c8bd05.png)
 
 
 
@@ -69,6 +70,7 @@
 
 1. DB와 Eclipse 연결 – getConnection() 메소드
 
+![image](https://user-images.githubusercontent.com/86222503/151693050-21497ae3-e60e-4d6b-96e9-9b0919374faf.png)
 
 
 - 이클립스에서 미리 구축한 MySQl의 DB에 접근할수 있도록 getConnection() 메소드를 정의하였다.
@@ -90,6 +92,7 @@
 
 
 
+![image](https://user-images.githubusercontent.com/86222503/151693071-9b03be51-2d7e-4ebe-951b-2f7a34f6d103.png)
 
 
 
@@ -104,6 +107,7 @@ DB내에 테이블을 통해 생성한 데이터의 정보 (이름 및 비밀번
 
 
 
+![image](https://user-images.githubusercontent.com/86222503/151693084-c3e41b7f-3c73-41de-bf4e-e62780920ffd.png)
 
 
 
@@ -127,6 +131,7 @@ insert()메소드를 통해 MySQL에 생성한 데이터베이스에 데이터�
 4. Eclipse를 통해 MySQL에 데이터 삽입 delete() 메소드 /StudentDB.java
 
 
+![image](https://user-images.githubusercontent.com/86222503/151693088-d7a8c567-e60e-4375-adab-1e9122e43ce5.png)
 
 
 
@@ -151,6 +156,7 @@ delete()메소드를 통해 MySQL에 존재하는 데이터베이스의 데이�
 5. Eclipse를 통해 MySQL에 데이터 수정 correct(() 메소드 /StudentDB.java
 
 
+![image](https://user-images.githubusercontent.com/86222503/151693091-7c232ab7-3aaf-4ad8-a730-15a0a9131b69.png)
 
 
 
@@ -170,6 +176,7 @@ correct()메소드를 통해 MySQL에 존재하는 데이터베이스의 데이�
 ### ✅ 프로그램 설명 
 
 
+![image](https://user-images.githubusercontent.com/86222503/151693095-09f69f0d-5587-49a3-b981-af1cde49c16d.png)
 
 
 
@@ -177,19 +184,32 @@ correct()메소드를 통해 MySQL에 존재하는 데이터베이스의 데이�
 
 
 
+![image](https://user-images.githubusercontent.com/86222503/151693096-baffb1d2-a02e-4ee1-a7f2-6e4d0ef335fb.png)
+
+
+
+![image](https://user-images.githubusercontent.com/86222503/151693101-797f02b5-0c9e-42ce-8739-9c9b12c36848.png)
+
+
+![image](https://user-images.githubusercontent.com/86222503/151693107-e874186a-7751-43cc-b90c-ac9d1dee4a9a.png)
 
 
 
 
 
+![image](https://user-images.githubusercontent.com/86222503/151693108-bee78952-76a4-4b00-9e60-f7f4ca79565f.png)
+
+
+![image](https://user-images.githubusercontent.com/86222503/151693112-7f040ca7-e9d2-4445-8472-496809f3c8d7.png)
 
 
 
-
+![image](https://user-images.githubusercontent.com/86222503/151693122-31b0b2bd-3167-4620-8ec1-82e15d483258.png)
 
 
 
 
 ### ✅ 프로젝트 최종결과물 
+![image](https://user-images.githubusercontent.com/86222503/151693126-3b520546-04de-4962-8910-df28884df389.png)
 
 
