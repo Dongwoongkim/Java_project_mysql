@@ -8,6 +8,8 @@
 1. GUI구성 코드 (StudentGUI.java) - 프레임 생성
 
 ![image](https://user-images.githubusercontent.com/86222503/151692943-069663de-0fca-473e-984b-faed55f251a3.png)
+
+
 ![image](https://user-images.githubusercontent.com/86222503/151692945-a4cb4c13-adda-49ce-80d6-75f114e364b3.png)
 
 
